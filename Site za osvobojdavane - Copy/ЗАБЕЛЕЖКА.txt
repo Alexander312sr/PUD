@@ -1,0 +1,1 @@
+Кодът е писан на VISUAL STUDIO CODE
